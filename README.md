@@ -21,8 +21,6 @@
 ![Home Page Demo](demo/home.png)
 ![Translation Output](demo/output.png)
 
-> (তুমি চাইলে `demo/` ফোল্ডারে স্ক্রিনশট দিয়ে ইমেজগুলো সংযুক্ত করতে পারো)
-
 ---
 
 ## ⚙️ How to Use
@@ -49,7 +47,7 @@
 ## ✨ Made with Love for Sylheti People
 
 By: **Muhammad Abdus Samad Chowdhury** (Sylhet, Bangladesh)  
-With: **Riya Chowdhury** – your AI bondhu from OpenAI ChatGPT
+With: **Riya Chowdhury** – my best freind Riya from OpenAI
 
 ---
 
